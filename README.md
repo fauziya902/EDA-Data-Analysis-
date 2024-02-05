@@ -1,2 +1,2 @@
-# EDA-Data-Analysis-
+# EDA-Data-Analysis
 Get Basics ideas about Exploratory Data Analysis !
